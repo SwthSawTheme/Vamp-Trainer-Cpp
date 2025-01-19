@@ -1,0 +1,11 @@
+{
+    "Vampires - Trainer": "build.0.2",
+    "developer": "Swth Saw Theme",
+    
+    "Gold": {
+        "offsets": [110,28,18,50,78],
+        "module": "GameAssembly.dll",
+        "endereco": "04CAD688"
+    }
+    
+}
